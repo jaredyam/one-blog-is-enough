@@ -1,5 +1,5 @@
 📝 One Blog is Enough
----------------------
+=====================
 
 Somehow efficiently learn a `(new|you've learned many times)` `(language|command|framework|...)` in `[0-9]{2}` minutes.
 
